@@ -4,7 +4,7 @@ My mini rust projects to learn rust lang
 
 ## Projects
 
-* Reverse a String
+* Hello world
 
 ## License
 
